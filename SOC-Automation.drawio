@@ -26,6 +26,11 @@
         <mxCell id="vkyqPre0zpjpMaQzLrcU-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="vkyqPre0zpjpMaQzLrcU-3" target="vkyqPre0zpjpMaQzLrcU-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vkyqPre0zpjpMaQzLrcU-34" value="Send and Receive email&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vkyqPre0zpjpMaQzLrcU-32">
+          <mxGeometry x="0.3982" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vkyqPre0zpjpMaQzLrcU-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="355.6" y="230" width="50" height="31.5" as="geometry" />
         </mxCell>
@@ -77,7 +82,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vkyqPre0zpjpMaQzLrcU-31" value="Send Alerts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vkyqPre0zpjpMaQzLrcU-30">
+        <mxCell id="vkyqPre0zpjpMaQzLrcU-31" value="Send Email" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vkyqPre0zpjpMaQzLrcU-30">
           <mxGeometry x="0.2401" relative="1" as="geometry">
             <mxPoint x="1" y="-31" as="offset" />
           </mxGeometry>
