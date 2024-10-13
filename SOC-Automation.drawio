@@ -28,7 +28,7 @@
             <mxPoint x="398" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vkyqPre0zpjpMaQzLrcU-34" value="Send and Receive email&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vkyqPre0zpjpMaQzLrcU-32">
+        <mxCell id="vkyqPre0zpjpMaQzLrcU-34" value="7. Send and Receive email&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vkyqPre0zpjpMaQzLrcU-32">
           <mxGeometry x="0.3982" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
