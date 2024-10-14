@@ -1,4 +1,5 @@
 # Diagram-SOC-Automation
+![SOC Automation Diagram](SOC-Automation.drawio.png)
 ## 1. Windows 10 Client (Wazuh Agent)
 - The client computer running Windows 10 is equipped with a Wazuh Agent.
 - The agent is responsible for collecting events from the client system and sending them to the **Router** as the initial events.
