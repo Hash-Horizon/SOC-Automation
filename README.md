@@ -1,10 +1,4 @@
 # Diagram-SOC-Automation
-# Network Security Flow
-
-Thank you for sharing the diagram! Let's go through it in detail.
-
-This diagram illustrates the process of security monitoring and incident handling using several components. Here's an explanation of each step and component visible in the diagram:
-
 ## 1. Windows 10 Client (Wazuh Agent)
 - The client computer running Windows 10 is equipped with a Wazuh Agent.
 - The agent is responsible for collecting events from the client system and sending them to the **Router** as the initial events.
