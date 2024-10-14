@@ -1,10 +1,6 @@
 # Diagram-SOC-Automation
 ![SOC Automation Diagram](SOC-Automation.drawio.png)
 
-# SOC Automation Diagram Explanation
-
-![SOC Automation Diagram](SOC-Automation.drawio.png)
-
 The SOC Automation Diagram shows the flow of security event detection and response, starting from the endpoint (Windows 10 Client) and going all the way to the Security Operations Center (SOC) Analyst. Below is a detailed breakdown of each component and its role in the process:
 
 ## Components and Workflow
