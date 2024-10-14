@@ -1,8 +1,5 @@
 # Diagram-SOC-Automation
 ![SOC Automation Diagram](SOC-Automation.drawio.png)
-Thank you for sharing the diagram! Let's go through it in detail, breaking down each term and unusual name to make it easier to understand.
-
-This diagram illustrates the process of security monitoring and incident handling using several components. Here's an explanation of each step and component visible in the diagram:
 
 1. **Windows 10 Client (Wazuh Agent)**:
    - **Windows 10 Client**: This is a regular computer running the Windows 10 operating system. It could be any user machine in an organization.
